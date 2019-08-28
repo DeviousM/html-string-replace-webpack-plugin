@@ -2,8 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/html-string-replace-webpack-plugin-webpack-4.svg)](https://badge.fury.io/js/html-string-replace-webpack-plugin-webpack-4)
 [![npm](https://img.shields.io/npm/dm/html-string-replace-webpack-plugin-webpack-4.svg)](https://www.npmjs.com/package/html-string-replace-webpack-plugin-webpack-4)
-[![Inline docs](http://inch-ci.org/github/deviousm/html-string-replace-webpack-plugin.svg?branch=master)](http://inch-ci.org/github/deviousm/html-string-replace-webpack-plugin)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/deviousm/html-string-replace-webpack-plugin/issues)
+[![Inline docs](http://inch-ci.org/github/deviousm/html-string-replace-webpack-plugin-webpack-4.svg?branch=master)](http://inch-ci.org/github/deviousm/html-string-replace-webpack-plugin-webpack-4)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/deviousm/html-string-replace-webpack-plugin-webpack-4/issues)
 
 This is a webpack plugin that replace string in html files that created by `html-webpack-plugin`.  
 This is especially useful for adding some cdn prefix.
